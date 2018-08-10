@@ -9,6 +9,6 @@ This can be done through Natural Learning Processes (NLP), Clustering and Regres
 
 |NO   | Tutorial  | Notes  | Lessons   | Source  |
 |---|---|---|---|---|
-| 1.  | Genism Tutorial  |My first commit utilises the gensim library. This is a NLP library for topic modelling, document indexing and similarity retrieval. | Latent Dirichlet Allocation (LDA), Latent Semantic Indexing (LSI) and Hierarchical Dirichlet Process (HDP)  | [markroxor](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html)  |
+| 1.  | [Genism Tutorial](https://github.com/jonokay1/ML_Tuts/blob/Readme_try/Gensim%20Tutorials.ipynb)  |My first commit utilises the gensim library. This is a NLP library for topic modelling, document indexing and similarity retrieval. | Latent Dirichlet Allocation (LDA), Latent Semantic Indexing (LSI) and Hierarchical Dirichlet Process (HDP)  | [markroxor](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html)  |
 |---|---|---|---|---|
 |   |   |   |   |   |
